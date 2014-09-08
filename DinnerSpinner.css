@@ -1,0 +1,20 @@
+/* CSS declarations go here */
+body{
+background-color:black;
+color: grey;
+font-family:sans-serif;;
+}
+.buttons{
+color: grey;
+font-family:sans-serif;
+padding:10px;
+border-color:grey;
+border:2px;  
+}
+.choices{
+color: grey;
+font-family:sans-serif;
+padding:10px;
+border-color:grey;
+border:2px;
+}
